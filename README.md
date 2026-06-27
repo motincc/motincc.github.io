@@ -6,8 +6,6 @@
 
 **「专业业余选手」** · 把时间浪费在美好的事物上
 
-[![博客](https://img.shields.io/badge/博客-blog.wuzipai.cc-blue?style=flat-square&logo=blogger)](https://blog.wuzipai.cc)
-[![邮箱](https://img.shields.io/badge/邮箱-motin@wuzipai.cc-red?style=flat-square&logo=gmail)](mailto:motin@wuzipai.cc)
 [![GitHub](https://img.shields.io/badge/GitHub-motincc-black?style=flat-square&logo=github)](https://github.com/motincc)
 
 </div>
@@ -48,7 +46,6 @@ Keep Coding, Keep Creating, and Keep Climbing. 🏔️
 
 <div align="center">
 
-<!-- 替换成你的 GitHub 用户名 -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=motincc&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=motincc&layout=compact&theme=radical)
