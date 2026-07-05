@@ -31,6 +31,5 @@
 
 **✨ 感谢你的访问！欢迎 star ⭐**
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/motincc&count_bg=%2379C83D&title_bg=%23555555&title= visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
